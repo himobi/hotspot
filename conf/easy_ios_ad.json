@@ -1,0 +1,85 @@
+{
+	"lastUpdated": "20190809-1",
+	"interval": 60,
+	"ads": [{
+			"adPlaceID": "open",
+			"adStatus": 1,
+			"adStyle": 1,
+			"showTime": 5,
+			"adDelay": 300,
+			"adSources": [
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/4064802123",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/3322566090",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/5757157741",
+					"adStatus": 1
+				}
+			]
+		},
+		{
+			"adPlaceID": "start",
+			"adStatus": 1,
+			"adStyle": 1,
+			"showTime": 5,
+			"adDelay": 300,
+			"adSources": [
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/2069194177",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/9756112501",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/9887974441",
+					"adStatus": 1
+				}
+			]
+		},
+
+		{
+			"adPlaceID": "home",
+			"adStatus": 0,
+			"adStyle": 1,
+			"adSources": [
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/3873230431",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/2368577079",
+					"adStatus": 1
+				},
+				{
+					"adSourceName": "admob",
+					"adFormatType": "adv_nav",
+					"adPlaceID": "ca-app-pub-6135749595977591/4312214139",
+					"adStatus": 1
+				}
+			]
+		}
+	]
+}
